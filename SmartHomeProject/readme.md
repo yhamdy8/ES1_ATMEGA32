@@ -41,3 +41,7 @@ Project Specifications :
 Tools Used:
 1- Eclipse.
 2- Arduino BlueControl mobile application.
+
+
+**Project preview link:
+https://www.linkedin.com/posts/youssefhamdy8_cprogramming-iot-iotproject-activity-7095721537382551553-md56?utm_source=share&utm_medium=member_desktop
